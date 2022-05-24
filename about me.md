@@ -2,9 +2,9 @@
 
 I am Olawale Onafeso, a graduate of Law(2019) from the University of Lagos, Nigeria. I proceeded to the Nigeria Law School after my undergraduate program and was called to the Nigerian Bar in 2021.
 
-Sometime around September 2021, I stumbled on an article on Data Analytics. This reinvigorated my interest in anything related to data. In senior secondary school, I had taken a course called Data Processing which was where the interest in data began. Despite my undergraduate Degree program which has almost nothing to do with Data Analytics, I have not allowed such to prevent me from pursusing a previous area of interest of mine.
+I practiced as a lawyer for a year and I have really enjoyed learning and studying law. There are many important skills that I have developed as a Lawyer. For example, I have great communication and public speaking skills. I have discovered that these skills wil be an additional factor to help me grow as a Data Analyst. If studying law was my choice, becoming a teacher is my passion and I strongly believe when you follow your passion, you always get success. 
 
-To improve on my knowledge and appraise myself with the whole concept of Data Analytics and everything it entails, I took the Google Data Analytics Certificate course and went further to take the IBM Data Analytics Certificate Course. These courses have aided me in understanding concepts like Data collection, Data wrangling, Data Analysis, Data protection and security and Data visualization.
+To improve on my knowledge on Data Analytics, I took the Google Data Analytics Certificate course and the IBM Data Analytics Certificate Course. These courses have helped me in understanding concepts like Data collection, Data wrangling, Data Analysis, Data protection and security and Data visualization.
 
 Upon completion of the certificate courses, I took a number of courses on Statistics for data analysis, SQL, Python and Tableau for Data visualization to improve on my technical skills and I am very confident in my ability to use these tools.
 
