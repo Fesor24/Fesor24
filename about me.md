@@ -1,8 +1,8 @@
 # About me
 
-I am Olawale Onafeso, a graduate of Law(2019) from the University of Lagos, Nigeria. I proceeded to the Nigeria Law School after my undergraduate program and was called to the Nigerian Bar in 2021.
+I am Olawale Onafeso, a graduate of Law(2019) from the University of Lagos, Nigeria. After my undergraduate Degree program, I proceeded to the Nigeria Law School and was called to the Nigerian Bar in 2021.
 
-I practiced as a lawyer for a year and I have really enjoyed learning and studying law. There are many important skills that I have developed as a Lawyer. For example, I have great communication and public speaking skills. I have discovered that these skills will be an additional factor to help me grow as a Data Analyst. If studying law was my choice, becoming a Data Analyst is my passion and I strongly believe when you follow your passion, you always get success. 
+I have practiced as a lawyer for a year and I have really enjoyed learning and studying law. There are many important skills that I have developed as a Lawyer. For example, I have great communication and public speaking skills. I have discovered that these skills will be an additional factor to help me grow as a Data Analyst. If studying law was my choice, becoming a Data Analyst is my passion and I strongly believe when you follow your passion, you always get success. 
 
 To improve on my knowledge on Data Analytics, I took the Google Data Analytics Certificate course and the IBM Data Analytics Certificate Course. These courses have helped me in understanding concepts like Data collection, Data wrangling, Data Analysis, Data protection and security and Data visualization.
 
