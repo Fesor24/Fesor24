@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an e-commerce microservice**
 
-- 🌱 I’m currently learning **WPF, Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **.Net, Angular projects**
 
