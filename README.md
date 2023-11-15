@@ -9,8 +9,7 @@
 
 - 👯 I’m looking to collaborate on **.Net, Angular projects**
 
-- 📝 Occasionally, I discuss about .Net on my LinkedIn [profile](https://www.linkedin.com/in/olawale-onafeso-41379822a)
-
+- 📝 Occasionally, I discuss about C#, .Net on [medium](https://medium.com/@onafesowale)
 
 - 💬 Ask me about **Law, .Net, Angular, React**
 
