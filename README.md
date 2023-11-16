@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **onafesowale@gmail.com**
 
-- ⚡ Fun fact **When I was a lot younger, I never liked programming, well, look at where we are now...**
+- ⚡ Fun fact:  **When I was a lot younger, I never liked programming, well, look at where we are now...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
