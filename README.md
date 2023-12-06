@@ -11,7 +11,7 @@
 
 - 📝 I write and publish C#, .Net articles on [medium](https://medium.com/@onafesowale)
 
-- 💬 Ask me about **Law, .Net, Angular, React**
+- 💬 Ask me about **Law, .Net, Angular**
 
 - 📫 How to reach me **onafesowale@gmail.com**
 
