@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **.Net, Angular projects**
 
-- 📝 I write and publish C#, .Net articles on [medium](https://medium.com/@onafesowale)
+- 📝 I write and publish C#, .Net, and Angular articles on [medium](https://medium.com/@onafesowale)
 
 - 💬 Ask me about **Law, .Net, Angular**
 
