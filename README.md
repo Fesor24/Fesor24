@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Systems Designs**
 
-- 👯 I’m looking to collaborate on **.Net, django, Angular projects**
+- 👯 I’m looking to collaborate on **.Net, Django, Angular projects**
 
 - 📝 I write and publish C#, .Net, and Angular articles on [medium](https://medium.com/@onafesowale)
 
