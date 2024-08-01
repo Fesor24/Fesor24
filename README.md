@@ -3,11 +3,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="swe" width="300" height="200" src="https://github.com/Fesor24/Fesor24/blob/main/swe-img.jpeg?raw=true" >
 
-- 🔭 I’m currently working on **a microservice application**
-
-- 🌱 I’m currently learning **Systems Designs**
-
-- 👯 I’m looking to collaborate on **.Net, Django, Angular projects**
+- 🔭 I’m currently working on **a multi level marketing application**
 
 - 📝 I write and publish C#, .Net, and Angular articles on [medium](https://medium.com/@onafesowale)
 
