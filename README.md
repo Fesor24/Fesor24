@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **a ride hailing application**
 
-- 📝 I write and publish C#, .Net, and Angular articles on [medium](https://medium.com/@onafesowale)
+- 📝 I write and publish C#, .Net, AWS and Angular articles on [medium](https://medium.com/@onafesowale)
 
-- 💬 Ask me about **C#, .Net, Angular**
+- 💬 Ask me about **C#, .Net**
 
 - 📫 How to reach me **onafesowale@gmail.com**
 
