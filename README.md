@@ -7,7 +7,7 @@
 
 - 📝 I write and publish C#, .Net, AWS and Angular articles on [medium](https://medium.com/@onafesowale)
 
-- 💬 Ask me about **C#, .Net, Java, SpringBoot**
+- 💬 Ask me about **C#, .Net, Java, Spring Boot**
 
 - 📫 How to reach me **onafesowale@gmail.com**
 
