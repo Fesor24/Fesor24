@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Wale</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h2 align="center">Hi 👋, I'm Wale</h2>
+<h4 align="center">A FullStack Software Developer</h4>
 <img align="right" alt="swe" width="300" height="200" src="https://github.com/Fesor24/Fesor24/blob/main/swe-img.jpeg?raw=true" >
 
 - 🔭 I’m currently working on **a ride hailing application**
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **onafesowale@gmail.com**
 
-- ⚡ Fun fact:  **When I was a lot younger, I never liked programming, well, look at where we are now...**
+- ⚡ Fun fact:  **When I was a lot younger, I never liked programming, well..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
